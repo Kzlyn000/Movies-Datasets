@@ -8,3 +8,5 @@ LEN Functions
  ** Syntax =LEN(text)**
  
 For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =LEN(A2), would return _**14**_. This shows that there are 14 character in the text **Move to Heaven**.
+
+
