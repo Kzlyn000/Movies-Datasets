@@ -9,4 +9,4 @@ LEN Functions
  
 For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =LEN(A2), would return _**14**_. This shows that there are 14 character in the text **Move to Heaven**.
 
-                  <img width="501" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/676b7bf6-fe6f-43a2-aca8-2a608b12ee3d">
+  <img width="501" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/676b7bf6-fe6f-43a2-aca8-2a608b12ee3d">
