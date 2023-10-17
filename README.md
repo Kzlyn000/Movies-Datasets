@@ -11,7 +11,8 @@ The data sets of korean drama from https://www.kaggle.com/datasets/ahbab911/top-
  
 For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =LEN(A2), would return _**14**_. This shows that there are 14 characters in the text **Move to Heaven**.
 
-  <img width="501" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/676b7bf6-fe6f-43a2-aca8-2a608b12ee3d"> <img width="388" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/a1ee039b-905b-413f-b292-9459bafe0581">
+  <img width="501" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/676b7bf6-fe6f-43a2-aca8-2a608b12ee3d"> <img width="306" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/369aa898-9e30-43da-9d1f-f4112a67ab3f">
+
 
 **UPPER Function**
 
@@ -19,6 +20,13 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
 
 
   <img width="531" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/2cbb1549-2162-4e60-9beb-a8dc2e54293b"> <img width="287" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/4710b0a6-cb9e-4c72-ada4-e3b1cb65531f">
+
+
+**LOWER Function**
+
+The LOWER Function
+
+<img width="541" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1126efd7-8ffd-4bed-9eb6-01412106b987"> <img width="317" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/9af2ac48-fa4a-43a8-ad8f-b76c9beb5f3f">
 
 
 
