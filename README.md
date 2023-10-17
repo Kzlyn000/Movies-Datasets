@@ -3,6 +3,7 @@ The data sets of korean drama from https://www.kaggle.com/datasets/ahbab911/top-
 # Application of Different Function in Excel and Designing Dashboard 
 # Text Functions
 LEN Functions
+
   The **LEN functions**(length) is a function in excel categorized under text functions which returns the length of the specified string including the letters, numbers, characters, and all spaces. This function can be useful if we wish to get the length of a given text string as the number of characters in a given cell. To apply this function use the formula:
  
  ** Syntax =LEN(text)**
