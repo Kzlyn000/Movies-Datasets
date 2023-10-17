@@ -40,6 +40,37 @@ The LOWER Function
 <img width="381" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/45458e79-c046-4254-99f4-dbf73b9d5e3e"> <img width="317" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c2e8460a-259e-4624-b037-1a88caeb3b84">
 
 
+#Lookup Functions
+
+LOOKUP Function
+
+<img width="910" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/5bdc763b-1b94-47b6-a371-845db6aa5dfe">
+
+
+
+
+
+VLOOKUP Function
+
+<img width="808" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/69cd6fad-9c28-4ea3-97d9-1155e1b1c858">
+
+
+MATCH Function
+
+<img width="917" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f509f2c6-d146-4495-8855-11969d86e1e1">
+
+
+
+INDIRECT Function
+
+<img width="861" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/220dd359-8996-47cc-a80b-a48fad1dec5b">
+
+ADDRESSS Function
+
+<img width="891" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1aac4f5e-0e5e-4dbe-98df-927d08c73c22">
+
+
+
 
 
 
