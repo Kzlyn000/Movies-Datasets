@@ -13,5 +13,9 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
 
   <img width="501" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/676b7bf6-fe6f-43a2-aca8-2a608b12ee3d">       <img width="388" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/a1ee039b-905b-413f-b292-9459bafe0581">
 
+**UPPER Function**
+
+  The UPPER function
+
 
          
