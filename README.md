@@ -46,6 +46,8 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
   Parameters
 
   text - The string that you wish to extract
+
+  
   number of characters - Optional. It indicates the amount of of characters you want to extract starting from the left most part of string. If this parameter is omitted, only 1 characteris returned.
 
   For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =LEFT(A2,3), would return _**Mov**_. 3 count from the left of the text "Move to Heaven" is "Mov".
@@ -62,16 +64,60 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
 
   Parameters
 
-  text - The string that you wish to extract
+  text - The string that you wish to extract 
+  
+  
   number of characters - Optional. It indicates the amount of of characters you want to extract starting from the right most part of string. If this parameter is omitted, only 1 characteris returned.
 
   For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =RIGHT(A2,5), would return _**eaven**_. 3 count from the left of the text "Move to Heaven" is "eaven".
   
 <img width="381" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/45458e79-c046-4254-99f4-dbf73b9d5e3e"> <img width="475" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/342d1ebb-b27e-457e-be31-730440b2bc9f">
 
+	
+# Math Functions
+
+**GCD Function**
+
+The GCD Function is a numeric function that returns the Greatest Common Divisor of two or more integer without remainder. The GCD is the greatest common factor that divides them. The syntax of this function is:
+
+Syntax =GCD(num1,num2,...)
+
+For example, in the 2nd row we have the **rank** (B2)  and **episodes** (C2) of the first drama entitled "Move to Heaven". Using the syntax = GCD(B2,C2), the GCD of the 2nd row is 1.
+
+<img width="377" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/6064769c-c334-423b-bc80-697d7f04a067"> <img width="332" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/4be12085-a33e-4e97-bc95-e4c2e703c09f">
 
 
-#Lookup Functions
+SQRT Function
+
+The sqrt function is a basic mathematical function that returns the positive squareroot of the given number. Square root is the number, that when multiplied by itself will gives the original number.
+<img width="315" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/be7df806-b623-4a3f-9e96-ed20c1e33c03"> 
+
+
+
+MIN & MAX Function
+
+<img width="479" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/11972137-5a8e-4d93-9e3e-b03e64286f10">
+
+MEDIAN Function
+
+<img width="343" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f07ef826-dca9-4746-9701-0a9e59101b53">
+
+ROUND Function
+
+<img width="293" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/015bc8ac-edac-445c-b772-a1850185f858">
+
+
+
+
+# Logical Functions
+
+# Information Functions
+
+# Date and Time Functions		
+
+# Lookup Functions
+
+The Lookup functions 
 
 LOOKUP Function
 
