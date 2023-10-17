@@ -71,7 +71,7 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
 
   For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =RIGHT(A2,5), would return _**eaven**_. 3 count from the left of the text "Move to Heaven" is "eaven".
   
-<img width="381" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/45458e79-c046-4254-99f4-dbf73b9d5e3e"> <img width="475" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/342d1ebb-b27e-457e-be31-730440b2bc9f">
+<img width="381" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/45458e79-c046-4254-99f4-dbf73b9d5e3e"> <img width="475" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/342d1ebb-b27e-457e-be31-730440b2bc9f"> 
 
 	
 # Math Functions
@@ -87,24 +87,53 @@ For example, in the 2nd row we have the **rank** (B2)  and **episodes** (C2) of 
 <img width="377" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/6064769c-c334-423b-bc80-697d7f04a067"> <img width="332" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/4be12085-a33e-4e97-bc95-e4c2e703c09f">
 
 
-SQRT Function
+**SQRT Function**
 
-The sqrt function is a basic mathematical function that returns the positive squareroot of the given number. Square root is the number, that when multiplied by itself will gives the original number.
-<img width="315" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/be7df806-b623-4a3f-9e96-ed20c1e33c03"> 
-
+The sqrt function is a basic mathematical function that returns the positive squareroot of the given number. Square root is the number, that when multiplied by itself will gives the original number. IF the return is negative it will become error. You can use the 
 
 
-MIN & MAX Function
+syntax =SQRT(number)
 
-<img width="479" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/11972137-5a8e-4d93-9e3e-b03e64286f10">
+For example, you want to find the sqrt of the number of episode in row 3 column 3 (B3). Using the syntax =SQRT(B3), the return sqrt will be 4. 
 
-MEDIAN Function
 
-<img width="343" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f07ef826-dca9-4746-9701-0a9e59101b53">
+<img width="315" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/be7df806-b623-4a3f-9e96-ed20c1e33c03"> <img width="283" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/8864c982-8adf-49be-be3b-fb613bbb847a">
+
+
+**MIN & MAX Function**
+
+The MIN & MAX Function is a basic math function that can be used to measure the smallest and largest value from the set of data. The minimum is for smallest value while the maximum is for the largest value. The syntax for this functions is as follows:
+
+syntax = MIN(number1,number2...)                               syntax =MAX(number1,number2...)
+
+For example, we have set of value from the number of episodes ranging from B2:B251. Using the syntax = MIN(B2:B251) the minimum episode will be 1 while for syntax = MAX(B2:B251) the maximum episode will be 133.
+
+<img width="479" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/11972137-5a8e-4d93-9e3e-b03e64286f10"> 
+
+<img width="321" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/188d229d-7b3f-457b-b0b6-7585040b28af"> <img width="256" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/11f4c685-5924-4505-8056-20ac9d17d8e2">
+
+
+**MEDIAN Function**
+
+The MEDIAN FUnction is under the basic math function that determine the middle value from the set range of data that separate the lower and higher half of values. The median is a type of average value, which describes where the center of the data is located. The minimum can be determine using the
+
+syntax = MEDIAN(num1,num2,...)
+
+For example, we have set of value from {1,2,3,4,5}. Using the syntax =MEDIAN {1,2,3,4,5} the middle/average will be 3. 
+
+<img width="343" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f07ef826-dca9-4746-9701-0a9e59101b53"> <img width="247" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/2a392e3e-eb1c-4a5a-b41a-150dd7f8810e">
+
 
 ROUND Function
 
-<img width="293" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/015bc8ac-edac-445c-b772-a1850185f858">
+The ROUND Function is used to return a number rounded  to a specified number of digits.. This can round from left to right of the decimal points. The syntax for this function is 
+
+Syntax =ROUND(number,num_digits)
+
+For example, if cell B3 contains 9.1, and you want to round that value to two decimal places, you can use the following formula: =ROUND(B4:B253,0) The result of this function will be 9.
+
+<img width="293" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/015bc8ac-edac-445c-b772-a1850185f858"> <img width="315" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/3ec3ac49-d17e-4f16-8e6b-8f7bef714101">
+
 
 
 
