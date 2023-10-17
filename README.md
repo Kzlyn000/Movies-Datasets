@@ -29,6 +29,17 @@ The LOWER Function
 <img width="541" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1126efd7-8ffd-4bed-9eb6-01412106b987"> <img width="317" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/9af2ac48-fa4a-43a8-ad8f-b76c9beb5f3f">
 
 
+**LEFT Function**
+
+<img width="379" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/e2624e57-9efd-4a9b-bebb-2e5a30a00738"> <img width="328" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/2b81894b-7a87-47af-bc59-b76663b70711">
+
+
+**RIGHT Function**
+
+
+<img width="381" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/45458e79-c046-4254-99f4-dbf73b9d5e3e"> <img width="317" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c2e8460a-259e-4624-b037-1a88caeb3b84">
+
+
 
 
 
