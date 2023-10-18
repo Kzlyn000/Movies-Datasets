@@ -143,6 +143,8 @@ The IF Function allows you to make logical comparisons between a value and what 
 
 =IF(conditions,value_if_true,value_if_false). 
 
+For example, you want to  recommend K-Dramas whose ratings are 8.5 and above, so using IF function if the rating of the drama is above 8.5 it will show YES and if below 8.5 show NO.
+
 <img width="876" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/e7fc3f75-1dc3-4bb2-bb7f-84cac819b12f"> 
 <img width="320" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/5ca13fc3-a984-4946-9ea6-cd099e694186">
 
@@ -151,6 +153,8 @@ The IF Function allows you to make logical comparisons between a value and what 
 The AND Function returns TRUE if all its arguments evaluate to TRUE, and returns FALSE if one or more arguments evaluate to FALSE. The AND function is often used together with the IF function. The yntax for this function is
 
 **=AND(condition1,[condition2],...)**
+
+For example, you want to recommend drama from the recommended ones but the drama should be 15+ - Teens 15 or older so using =AND(cell with age restriction,cell for recommended ones). If drama is within the set age show TRUE but if the drama is aboce show FALSE.
 
 <img width="914" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/2e8a9360-ff75-485e-89b9-f4d58343d877">
 <img width="441" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c62b059f-7ab5-4e1a-8f96-3656b14a7f29">
@@ -256,6 +260,8 @@ SYNTAX
 
 **=YEAR(serial_number)**
 
+For example in the cell B2 the date stated is 14-May-21. To know the year, month and day component  of the Date, use the syntax =YEAR(B2), =MONTH(B2), =DAY(B2) so the YEAR is 2021, the MONTH is May, and the DAY is 14.
+
 <img width="219" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c0375fc5-888e-4c73-875a-308be6bfcf31">
 
 <img width="304" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/5a027758-6182-457e-8e4b-8741970f0f25"> <img width="308" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f430ab03-2033-403a-80ca-4255360ec070"> <img width="310" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/585fbaac-e831-4c21-8ac8-7253f63eef8f">
@@ -283,17 +289,20 @@ SECOND Function
 
 The SECOND Function extract the minute component of a time as a number between 0 59.
 
+ For example in cell B2 the duration of the drama is 00:52:00. If where going to find the HOUR, MINUTE, and SECOND  we will use the syntax =HOUR(B2), =MINUTE(B2) and =SECOND(B2). Since the duration of the drama is within 52 minutes then the HOUR will be 0, The minutes will be 52 and the second will be 0. 
+ 
 <img width="358" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c8eff96d-682f-4ba3-8989-ce5f5a0a2f7c">
 <img width="285" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/d21411cd-c1e1-4f60-99e0-deecb4e95a35"> <img width="311" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/33812f7e-cffc-48c8-8197-c9ddeadc4530"> <img width="284" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/701bdca0-f8aa-4bc5-b45b-6a1004a7c51f">
 
-**DAY Function**
+**DAYS Function**
 
-The DAY Function returns the day of the month as an integer in the range from 1 to the number of days in the current month or between 1-31. It can use to extract day in a cell.
+The DAYS Function returns the day of the month as an integer in the range from 1 to the number of days in the current month or between 1-31. It can use to extract day in a cell.
 
 SYNTAX
 
-**=DAY(serial_number)**
+**=DAYS(serial_number)**
 
+For example, we want to find the number of days the drama is aired until it end. In cell B3 the date end on 23-Sep-20 while it aired on 29-Jul-20. Using the syntax =DAYS(B2,C2) the number of days the drama is releae until end is 56 days.
 
 <img width="459" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/19e0572c-1dca-4aa6-92ce-4413e533d0b7"> <img width="303" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/b95a5aef-ccf3-4469-9876-b65bf3887b07">
 
