@@ -34,7 +34,7 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
 
  For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =LOWER(A2), would return _**move to heaven**_. This shows that all the letter in the text is in lowercase. 
 
-<img width="541" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1126efd7-8ffd-4bed-9eb6-01412106b987"> <img width="317" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/9af2ac48-fa4a-43a8-ad8f-b76c9beb5f3f">
+<img width="491" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/4d29d263-12e5-4f85-aaab-c91757ce6a4f"> <img width="317" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/9af2ac48-fa4a-43a8-ad8f-b76c9beb5f3f">
 
 
 **LEFT Function**
