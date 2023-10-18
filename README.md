@@ -228,18 +228,98 @@ The ISNUMBER Function is use to return TRUE when a cell contains a number, and F
 <img width="608" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/e7184547-03b6-44f6-a27e-82f9c47a340d"> <img width="367" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/668b632f-3fff-4475-b8fb-9d891940c2b4">
 
 
+# Date and Time Functions
+
+DAY,MONTH,YEAR Function
+
+**DAY Function**
+
+The DAY Function returns the day of the month as an integer in the range from 1 to the number of days in the current month or between 1-31. It can use to extract day in a cell.
+
+SYNTAX
+
+**=DAY(serial_number)**
+
+**MONTH Function**
+
+The MONTH Function extract the month from the given date as a number 1-12. 
+
+SYNTAX
+
+**=MONTH(serial_number)**
+
+YEAR Function
+
+The Excel YEAR Function returns the year component of a date as a 4 digit number.
+
+SYNTAX
+
+**=YEAR(serial_number)**
+
+<img width="219" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c0375fc5-888e-4c73-875a-308be6bfcf31">
+
+<img width="304" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/5a027758-6182-457e-8e4b-8741970f0f25"> <img width="308" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f430ab03-2033-403a-80ca-4255360ec070"> <img width="310" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/585fbaac-e831-4c21-8ac8-7253f63eef8f">
+
+
+HOUR,MINUTE,SECOND Function
+
+HOUR Function 
+
+The HOUR Function returns the hour component of a time as a number 0 23. 
+
+SYNTAX
+
+**=HOUR(serial_number)**
+
+MINUTE Function
+
+The MINUTE Function extract the minute component of a time as a number between 0 59.
+
+SYNTAX
+
+=MINUTE(serial_number)
+
+SECOND Function
+
+The SECOND Function extract the minute component of a time as a number between 0 59.
+
+<img width="358" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c8eff96d-682f-4ba3-8989-ce5f5a0a2f7c">
+<img width="285" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/d21411cd-c1e1-4f60-99e0-deecb4e95a35"> <img width="311" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/33812f7e-cffc-48c8-8197-c9ddeadc4530"> <img width="284" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/701bdca0-f8aa-4bc5-b45b-6a1004a7c51f">
+
+**DAY Function**
+
+The DAY Function returns the day of the month as an integer in the range from 1 to the number of days in the current month or between 1-31. It can use to extract day in a cell.
+
+SYNTAX
+
+**=DAY(serial_number)**
+
+
+<img width="459" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/19e0572c-1dca-4aa6-92ce-4413e533d0b7"> <img width="303" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/b95a5aef-ccf3-4469-9876-b65bf3887b07">
+
+
+TIME Function
+
+The TIME Function is a built in function that allows you to create a time with individual hour, minute, and second component.
+
+SYNTAX 
+
+=TIME(hour,minute,second)
+
+<img width="465" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/20702498-39a4-457a-95aa-b363f6e09da2"> <img width="278" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/d1dd842c-feaf-45b8-9761-d02fc5031728">
+
+DATE Function
+
+The DATE Function create a valid date from individual year,month, and day.
+
+SYNTAX
+
+=DATE(year,month,day)
+
+<img width="512" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/2e0d8b3a-aa8f-46d6-ba45-1524c28cb0ff"> <img width="333" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c4de750e-0035-41f9-988a-9069ef3721e0">
 
 
 
-
-
-
-
-
-
-
-
-# Date and Time Functions		
 
 # Lookup Functions
 
