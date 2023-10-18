@@ -1,4 +1,4 @@
-# Movies-Datasets
+<img width="441" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/3843d466-33c7-4666-9ed0-b53cb3c7042b"># Movies-Datasets
 The data sets of korean drama from https://www.kaggle.com/datasets/ahbab911/top-250-korean-dramas-kdrama-dataset is used to create different function and to design dashboard using the MS Excel application. 
 # Application of Different Function in Excel and Designing Dashboard 
 # Text Functions
@@ -323,34 +323,93 @@ SYNTAX
 
 # Lookup Functions
 
-The Lookup functions 
+LOOKUP functions 
 
-LOOKUP Function
+The LOOKUP function returns a value from a range(one row or one column) or from an array.
 
-<img width="910" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/5bdc763b-1b94-47b6-a371-845db6aa5dfe">
+SYNTAX
+
+=LOOKUP(value, lookup_range, [result_range]
+
+<img width="910" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/5bdc763b-1b94-47b6-a371-845db6aa5dfe"> <img width="441" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/7f3777e6-84ed-4269-bb70-bc9a60669f52">
+
+**VLOOKUP Function**
+
+The VLOOKUP function in Excel is a powerful function used to lookup data in a table organized vertically. It looks down the left column of a range to find a value.
+
+SYNTAX 
+
+**=VLOOKUP(value, table, index,[result_range])**
+
+Parameters
+
+value - The value to look for in the first column of a table.
+
+table - The table from which to retrieve a value.
+
+index - The column in the table from which to retrieve value. 
+
+result_range - [optional] TRUE = approximate match (default). FALSE = exact match
+
+<img width="808" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/69cd6fad-9c28-4ea3-97d9-1155e1b1c858"> <img width="382" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/11a2a36c-7e47-43f0-a648-33e48b076a22">
 
 
+**MATCH Function**
 
+The MATCH function searches for a specified item in a range of cells, and then returns the relative position of that item in the range.
 
+SYNTAX
 
-VLOOKUP Function
+=MATCH(lookup_type, lookup_array, match_type)
 
-<img width="808" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/69cd6fad-9c28-4ea3-97d9-1155e1b1c858">
+<img width="917" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f509f2c6-d146-4495-8855-11969d86e1e1"> <img width="316" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/3d7129db-f5ac-48ec-aa71-0ec992b421d5">
 
+**INDIRECT Function**
 
-MATCH Function
+The INDIRECT function in Excel is used to create a reference specified by a text string. It enables us to create references from cell values. This function is one of the lookup and reference functions in Excel. It is most used for building dynamic references for calculations and chart ranges.
 
-<img width="917" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f509f2c6-d146-4495-8855-11969d86e1e1">
+Syntax
 
+=INDIRECT( string_reference, [ref_style]
 
+Parameters
 
-INDIRECT Function
+string reference - a textual representation of a cell reference.
 
-<img width="861" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/220dd359-8996-47cc-a80b-a48fad1dec5b">
+ref style - Optional. It is the reference style to use: either A1 or R1C1. If this parameter is omitted, it assumes that the ref_style is set to TRUE. 
+
+<img width="861" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/220dd359-8996-47cc-a80b-a48fad1dec5b"> <img width="331" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/d457634d-e07b-4f6a-8f5b-c4ce8a13d73d">
 
 ADDRESSS Function
 
-<img width="891" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1aac4f5e-0e5e-4dbe-98df-927d08c73c22">
+The ADDRESS function is used to obtain the address of a cell in a worksheet, given specified row and column numbers. 
+
+SYNTAX 
+
+=ADDRESS(row,column,[ref_type],[ref_style],[sheet name])
+
+Parameters
+
+row_num - the row number to use in the cell address
+
+col_num - the column number to use in the cell address
+
+ref_type - Optional. It is the type of reference  to use. If this parameter is omitted, it assumes that the ref_style is set to 1.
+
+ref_style - Optional. It is the reference  tyle to use: either A1 or R1C1. If tHthis parameter is omitted, it assumes that the ref_style is set to TRUE.
+
+sheet_name - Optional. It is the name of the sheet to use in the cell address. If this parameter is omitted, then no sheet name is used in the cell address.
+
+<img width="891" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1aac4f5e-0e5e-4dbe-98df-927d08c73c22"> <img width="319" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/d6e4c2c1-8f1d-4edb-b50d-2abed9f8e52f">
+
+#DASHBOARD
+
+The detail in the dashboard below are from the data and ranking of korean drama from different year. 
+<img width="754" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/198180be-55ee-437b-88df-aaba63fb1a50">
+
+
+
+
 
 
 
