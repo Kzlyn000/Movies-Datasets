@@ -179,7 +179,9 @@ The XOR Function (exclusive OR) is an logical function that would return TRUE if
 
 **=XOR(logical1,[logical2],...)**
 
-<img width="774" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/a25bd239-e9b9-49d4-9cc8-ea708c6a401e">
+<img width="583" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/f0e462bc-b2e5-4037-a294-3b9544c80199"> <img width="300" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1ce6d8cf-6a49-4ed4-b601-b04b1fc7ed39">
+
+
 
 # Information Functions
 
