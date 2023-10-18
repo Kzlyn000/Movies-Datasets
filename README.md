@@ -23,7 +23,7 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
  For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =UPPER(A2), would return _**MOVE TO HEAVEN**_. This shows that all the letter in the text is in uppercase. 
 
 
-  <img width="531" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/2cbb1549-2162-4e60-9beb-a8dc2e54293b"> <img width="287" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/4710b0a6-cb9e-4c72-ada4-e3b1cb65531f">
+ <img width="477" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/49e5f590-c2d9-4642-9c6c-d1f7c6c6ae9b"> <img width="287" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/4710b0a6-cb9e-4c72-ada4-e3b1cb65531f">
 
 
 **LOWER Function**
