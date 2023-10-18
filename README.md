@@ -53,7 +53,7 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
   For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =LEFT(A2,3), would return _**Mov**_. 3 count from the left of the text "Move to Heaven" is "Mov".
   
 
-<img width="379" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/e2624e57-9efd-4a9b-bebb-2e5a30a00738"> <img width="458" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c4c7cc19-7d42-4c8e-9371-48727a0aa584">
+<img width="394" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1303c461-3c61-43a7-838a-99d6c2d17f43"> <img width="458" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/c4c7cc19-7d42-4c8e-9371-48727a0aa584">
 
 
 **RIGHT Function**
