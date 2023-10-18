@@ -1,4 +1,4 @@
-<img width="441" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/3843d466-33c7-4666-9ed0-b53cb3c7042b"># Movies-Datasets
+# Movies-Datasets
 The data sets of korean drama from https://www.kaggle.com/datasets/ahbab911/top-250-korean-dramas-kdrama-dataset is used to create different function and to design dashboard using the MS Excel application. 
 # Application of Different Function in Excel and Designing Dashboard 
 # Text Functions
@@ -404,8 +404,76 @@ sheet_name - Optional. It is the name of the sheet to use in the cell address. I
 
 #DASHBOARD
 
-The detail in the dashboard below are from the data and ranking of korean drama from different year. 
+The detail in the dashboard below are from the data and ranking of korean drama from different year. We choose top 10 korean drama based on their ranking. The dashboard contain the title, synopsis, ranking, cast and their rating.
+
 <img width="754" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/198180be-55ee-437b-88df-aaba63fb1a50">
+
+Rank 1
+
+Move to Heaven
+
+<img width="777" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/6bdd1f44-7378-4b73-aed4-97f8c9f9ca5c">
+
+Rank 2
+
+Flower of Evil
+
+<img width="824" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/760a158f-bffa-4251-96cd-2d9cb978be3b">
+
+Rank 3
+
+Hospital Playlist
+
+<img width="807" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/9d703b4c-ee4a-435a-a47f-570b6f326842">
+
+Rank 4
+
+Hospital Playlist 2
+
+<img width="813" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/5f000232-581a-4db7-9994-ec979e89f34e">
+
+Rank 5
+
+My Mister
+
+<img width="774" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/2dc1cc3c-08b9-46bd-a33d-f3b597c2b9ce">
+
+Rank 6
+
+Reply 1988
+
+![image](https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/9bacca03-77e5-4677-a0ed-e5ed4d0bc740)
+
+<img width="813" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/0c380920-87fd-49e8-8518-6d80e4b4b353">
+
+Rank 7
+
+Weak Hero Class 1
+
+<img width="809" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/9f2aaddb-6ce8-4db5-a0b2-63f0904a1113">
+
+Rank 8
+
+Prison Playbook
+
+<img width="907" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/305b1116-7e05-4802-a2a2-2f8fffaecba8">
+
+Rank 9
+
+Alchemy of Souls
+
+<img width="902" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/7aed9aa8-0087-4e92-b826-a26b7da1b951">
+
+Rank 10
+
+Extraordinary Attorney Woo
+
+<img width="905" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/3a103c1f-deb3-47a4-be75-e12a578c73cb">
+
+
+
+
+
 
 
 
