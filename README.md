@@ -1,6 +1,12 @@
+                                  <img width="452" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/79cfc292-182f-4d16-9dd5-1d67dc766d0e">
+
+
 # Movies-Datasets
 The data sets of korean drama from https://www.kaggle.com/datasets/ahbab911/top-250-korean-dramas-kdrama-dataset is used to create different function and to design dashboard using the MS Excel application. 
 # Application of Different Function in Excel and Designing Dashboard 
+
+
+
 # Text Functions
 
 **LEN Functions**
