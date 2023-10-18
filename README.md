@@ -71,7 +71,7 @@ For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the form
 
   For example, if the cell _**A2**_ contains the text _"Move to Heaven"_, the formula =RIGHT(A2,5), would return _**eaven**_. 3 count from the left of the text "Move to Heaven" is "eaven".
   
-<img width="381" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/45458e79-c046-4254-99f4-dbf73b9d5e3e"> <img width="475" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/342d1ebb-b27e-457e-be31-730440b2bc9f"> 
+<img width="347" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/898e5ab9-a627-4300-9bba-eaf0a6115f93"> <img width="475" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/342d1ebb-b27e-457e-be31-730440b2bc9f"> 
 
 	
 # Math Functions
