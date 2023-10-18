@@ -1,4 +1,4 @@
-                                  <img width="452" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/79cfc292-182f-4d16-9dd5-1d67dc766d0e">
+<img width="452" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/79cfc292-182f-4d16-9dd5-1d67dc766d0e">
 
 
 # Movies-Datasets
