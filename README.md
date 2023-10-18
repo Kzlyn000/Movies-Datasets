@@ -411,7 +411,7 @@ sheet_name - Optional. It is the name of the sheet to use in the cell address. I
 
 <img width="891" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/1aac4f5e-0e5e-4dbe-98df-927d08c73c22"> <img width="319" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/d6e4c2c1-8f1d-4edb-b50d-2abed9f8e52f">
 
-#DASHBOARD
+# DASHBOARD
 
 The detail in the dashboard below are from the data and ranking of korean drama from different year. We choose top 10 korean drama based on their ranking. The dashboard contain the title, synopsis, ranking, cast and their rating.
 
@@ -450,8 +450,6 @@ My Mister
 Rank 6
 
 Reply 1988
-
-![image](https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/9bacca03-77e5-4677-a0ed-e5ed4d0bc740)
 
 <img width="813" alt="image" src="https://github.com/Kzlyn000/Movies-Datasets/assets/144194143/0c380920-87fd-49e8-8518-6d80e4b4b353">
 
